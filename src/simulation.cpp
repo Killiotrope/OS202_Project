@@ -3,6 +3,7 @@
 #include <cassert>
 #include <iostream>
 #include <thread>
+#include <mpi.h>
 #include <chrono>
 
 #include "model.hpp"
